@@ -1,0 +1,148 @@
+:root {
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultseashell: rgba(241, 241, 241, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultgallery: rgba(235, 235, 235, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaulttundora: rgba(74, 74, 74, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultmine-shaft: rgba(48, 48, 48, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultalabaster: rgba(250, 250, 250, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultcod-gray: rgba(26, 26, 26, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultdove-gray: rgba(97, 97, 97, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultgray: rgba(138, 138, 138, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultblack: rgba(0, 0, 0, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultnero: rgba(255, 255, 255, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultwhite: rgba(253, 253, 253, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultoslo-gray: rgba(137, 143, 148, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultwild-sand: rgba(247, 247, 247, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultolive: rgba(148, 116, 255, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultsilver: rgba(204, 204, 204, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultnero-02: rgba(255, 255, 255, 0);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultscience-blue: rgba(0, 91, 211, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultblack-17: rgba(0, 0, 0, 0.17);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultmercury: rgba(227, 227, 227, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultclassic-rose: rgba(251, 207, 251, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultdisco: rgba(121, 26, 121, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultnobel: rgba(181, 181, 181, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultregent-gray: rgba(147, 158, 170, 1);
+  --adminshopifycomstore2761b8-2productsnew1920x1080defaultnero-20: rgba(255, 255, 255, 0.2);
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-13-font-family: "Inter-SemiBold",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-13-font-weight: 600;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-13-font-size: 13px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-13-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-13-line-height: 20px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-13-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-9-font-family: "Inter-SemiBold",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-9-font-weight: 600;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-9-font-size: 12.8984375px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-9-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-9-line-height: 16px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-9-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-9-font-family: "Inter-Bold", Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-9-font-weight: 700;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-9-font-size: 12.8984375px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-9-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-9-line-height: 20px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-9-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-font-family: "Inter-Medium",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-font-weight: 500;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-font-size: 12.8984375px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-line-height: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-8-font-family: "Inter-SemiBold",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-8-font-weight: 600;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-8-font-size: 12.796875px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-8-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-8-line-height: 20px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-8-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-11-81-font-family: "Inter-Bold",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-11-81-font-weight: 700;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-11-81-font-size: 11.8125px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-11-81-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-11-81-line-height: 16px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-11-81-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-20-font-family: "Inter-Bold", Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-20-font-weight: 700;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-20-font-size: 20px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-20-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-20-line-height: 24px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-20-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-11-81-font-family: "Inter-SemiBold",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-11-81-font-weight: 600;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-11-81-font-size: 11.8125px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-11-81-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-11-81-line-height: 16px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-11-81-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-font-family: "Inter-SemiBold",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-font-weight: 600;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-font-size: 12px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-line-height: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-semi-bold-12-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-11-81-font-family: "Inter-Medium",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-11-81-font-weight: 500;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-11-81-font-size: 11.8125px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-11-81-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-11-81-line-height: 16px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-11-81-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-13-font-family: "Inter-Medium",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-13-font-weight: 500;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-13-font-size: 13px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-13-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-13-line-height: 16px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-13-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-8-font-family: "Inter-Medium",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-8-font-weight: 500;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-8-font-size: 12.796875px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-8-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-8-line-height: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-8-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-89-font-family: "Inter-Bold",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-89-font-weight: 700;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-89-font-size: 13.890625px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-89-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-89-line-height: 20px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-89-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-underline-font-family: "Inter-Medium",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-underline-font-weight: 500;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-underline-font-size: 12.8984375px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-underline-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-underline-line-height: 20px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-medium-12-9-underline-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-font-family: "Inter-Bold", Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-font-weight: 700;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-font-size: 12px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-line-height: 16px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-12-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-11-2-font-family: "Inter-Regular",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-11-2-font-weight: 400;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-11-2-font-size: 11.199999809265137px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-11-2-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-11-2-line-height: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-11-2-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-13-font-family: "Inter-Regular",
+    Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-13-font-weight: 400;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-13-font-size: 13px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-13-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-13-line-height: 20px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-regular-13-font-style: normal;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-font-family: "Inter-Bold", Helvetica;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-font-weight: 700;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-font-size: 13px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-letter-spacing: 0px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-line-height: 16px;
+  --admin-shopify-com-store-2761b8-2-products-new-1920x1080-default-inter-bold-13-font-style: normal;
+}

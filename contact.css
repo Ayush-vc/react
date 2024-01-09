@@ -1,0 +1,260 @@
+.container{
+    width: 100%; 
+    height: 100%; 
+    background: #EFF2F1; 
+    flex-direction: column; 
+    justify-content: flex-start; 
+    align-items: flex-start; 
+    display: inline-flex;
+}
+
+.header{
+    height: 50px;
+    width: 1500px;
+    background-color: #3B5D50;
+}
+
+.he1{
+    border: 0px solid;
+    width: 500px;
+    height: 50px;
+    line-height: 1;
+    padding-left: 130px;
+    font-family: sans-serif;
+    float: left;
+}
+
+.he2{
+    border: 0px solid red;
+    min-height: 50px;
+    width: 600px;
+    padding-left: 8px;
+    padding-right: 8px;
+    box-sizing: border-box;
+    overflow: hidden;
+    color: black;
+    float: right;
+}
+
+.navbar{
+    width: 100%;
+    align-items: center;
+    display: flex;
+}
+
+nav{
+    flex: 1;
+    text-align: right;
+    line-height: 2;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 30px;  
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+
+nav ul li a:hover{
+    color: #ff5ea2;
+}
+
+.menu{
+    height: 25px;
+    cursor: pointer;
+    
+}
+
+.banner{
+    border: 0px solid black;
+    height: 243px;
+    width: 1500px;
+    background-color: #3B5D50;
+}
+
+
+.b1{
+    border: 00px sold red;
+    width: 100px;
+    float: left;
+    padding-left: 150px;
+    line-height: 4;
+ 
+}
+
+.b2{
+    border: 0px solid black;
+    width: 600px;
+    float: right;
+   
+}
+
+.tv{
+    border: 0px solid black;
+    height: 250px;
+    width: 250px;
+}
+
+/* .btn
+{
+    width: 6%; 
+    height: 5%; 
+    padding-left: 31px; 
+    padding-right: 31px; 
+    padding-top: 13px; 
+    padding-bottom: 13px; 
+    background: #F9BF29; 
+    border-radius: 30px; 
+    border: 1px #F9BF29 solid; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex;
+    margin-left: 10%;
+}
+
+.btn1{
+    text-align: center; 
+    color: #2F2F2F; 
+    font-size: 16px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    line-height: 24px; 
+    word-wrap: break-word"
+}
+.btn2{
+    width: 6%; 
+    height: 5%; 
+    padding-left: 31px; 
+    padding-right: 31px; 
+    padding-top: 13px; 
+    padding-bottom: 13px; 
+    border-radius: 30px; 
+    border: 2px rgba(255, 255, 255, 0.30) solid; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: inline-flex;
+    margin-left: 1%;
+}
+
+.btn3{
+    text-align: center; 
+    color: white; 
+    font-size: 16px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    line-height: 24px; 
+    word-wrap: break-word"
+} */
+
+
+  .footer{
+    border: 0px solid black;
+    height: 556px;
+    width: 1300px;
+    margin-left: 6.5%;
+  }
+
+  .foo{
+    border: 0px solid brown;
+    height: 70%;
+    width: auto;
+  }
+
+  .footer1{
+    border: 0px solid black;
+    height: 70%;
+    width: 30%;
+    float: left;
+    padding-left: 24px;
+
+  }
+
+  .footer1 p{
+
+    color: black; 
+    font-size: 24px; 
+    font-family: Inter; 
+    font-weight: 500; 
+    line-height: 28px; 
+    
+
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram{
+    background: #55ACEE;
+    color: white;
+  }
+
+  .footer2{
+    border: 0px solid black;
+    height: 70%;
+    width: 60%;
+    float: right;
+
+  }
+
+  .footer3{
+    border: 0px solid red;
+    height: 20%;
+    width: 1300px;
+  }
+
+  .f1{
+    border: 0px solid black;
+    float: left;
+    height: 100%;
+    width: 50%;
+  }
+
+  .f2{
+    border: 0px solid black;
+    float: right;
+    height: 100%;
+    width: 40%;
+  }
+  
+  
+  
+
+  @media only screen and (max-width: 600px){
+    nav ul{
+        display: none;
+        width: 50%;
+        background-color: #3B5D50;
+        position: absolute;
+        z-index: 2;
+    }
+
+    nav ul li{
+        display: block;
+    }
+  }

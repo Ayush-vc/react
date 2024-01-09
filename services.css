@@ -1,0 +1,33 @@
+
+
+
+.grid{
+    border: 0px solid red;
+    width: 1300px;
+    height: 1350px;
+    margin-left: 6.5%;
+    /* padding-top:112px ;
+    padding-left: ;
+    padding-right: ;
+    padding-bottom:192px ; */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr); /* Three rows with equal height */
+    grid-template-columns: repeat(4, 1fr); /* Four columns with equal width */
+     gap: 10px; /*Gap between grid items */
+    margin: 20px;
+  }
+  
+.grid-item {
+    border: 0px solid #ddd;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .grid-item img{
+    height: 50%;
+  }
+
+  

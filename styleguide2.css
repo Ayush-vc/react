@@ -1,0 +1,343 @@
+:root {
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultnero: rgba(255, 255, 255, 1);
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultblack: rgba(0, 0, 0, 1);
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultred: rgba(237, 6, 18, 1);
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultyellow-sea: rgba(
+    250,
+    176,
+    5,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultdusty-gray: rgba(
+    153,
+    153,
+    153,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultchambray: rgba(
+    59,
+    89,
+    152,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultlimeade: rgba(
+    64,
+    153,
+    255,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultcardinal: rgba(
+    204,
+    33,
+    39,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultcranberry: rgba(
+    224,
+    77,
+    132,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultgreen-haze: rgba(
+    3,
+    148,
+    69,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultboulder: rgba(
+    119,
+    119,
+    119,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultnero-45: rgba(
+    255,
+    255,
+    255,
+    0.45
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultgray: rgba(138, 138, 138, 1);
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultsilver-chalice: rgba(
+    178,
+    178,
+    178,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultmine-shaft: rgba(
+    53,
+    53,
+    53,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultnobel: rgba(
+    180,
+    180,
+    180,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultbrick-red: rgba(
+    205,
+    40,
+    48,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultdeep-blush: rgba(
+    227,
+    94,
+    144,
+    1
+  );
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultebony: rgba(13, 19, 38, 1);
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultmako: rgba(65, 65, 77, 1);
+  --pw3layoutscomdemosnewtemplatedemo19-07-2017bigstore-demofree91858261web1920x1080defaultturbo: rgba(
+    230,
+    235,
+    255,
+    1
+  );
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-42-font-family: "Roboto-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-42-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-42-font-size: 42px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-42-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-42-line-height: 46.20000076293945px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-42-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-8-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-8-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-8-font-size: 8px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-8-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-8-line-height: 8px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-8-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-21-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-21-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-21-font-size: 12.206250190734863px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-21-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-21-line-height: 18px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-21-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-6-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-6-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-6-font-size: 12.600000381469727px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-6-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-6-line-height: 18px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-6-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-14-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-14-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-14-font-size: 14px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-14-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-14-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-14-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-67-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-67-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-67-font-size: 13.671875px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-67-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-67-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-67-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-89-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-89-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-89-font-size: 13.890625px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-89-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-89-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-89-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-56-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-56-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-56-font-size: 13.5625px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-56-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-56-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-56-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-02-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-02-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-02-font-size: 13.015625px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-02-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-02-line-height: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-02-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-font-size: 13.234375px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-91-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-91-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-91-font-size: 12.90625px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-91-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-91-line-height: 20px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-91-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-8-font-family: "Roboto-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-8-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-8-font-size: 16.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-8-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-8-line-height: 18.479999542236328px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-8-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-13-strikethrough-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-13-strikethrough-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-13-strikethrough-font-size: 13.125px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-13-strikethrough-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-13-strikethrough-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-13-strikethrough-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-strikethrough-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-strikethrough-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-strikethrough-font-size: 13.234375px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-strikethrough-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-strikethrough-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-23-strikethrough-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-67-font-family: "Roboto-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-67-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-67-font-size: 16.66874885559082px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-67-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-67-line-height: 18.479999542236328px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-67-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-40-36-font-family: "Roboto-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-40-36-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-40-36-font-size: 40.35940170288086px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-40-36-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-40-36-line-height: 46.20000076293945px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-40-36-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-78-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-78-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-78-font-size: 13.78125px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-78-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-78-line-height: 28px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-78-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-41-02-font-family: "Roboto-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-41-02-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-41-02-font-size: 41.015625px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-41-02-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-41-02-line-height: 46.20000076293945px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-41-02-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-strikethrough-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-strikethrough-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-strikethrough-font-size: 11.8125px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-strikethrough-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-strikethrough-line-height: 18px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-strikethrough-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-font-size: 11.8125px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-line-height: 18px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-11-81-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-41-font-family: "Roboto-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-41-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-41-font-size: 16.40625px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-41-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-41-line-height: 18.479999542236328px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-16-41-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-45-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-45-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-45-font-size: 13.453125px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-45-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-45-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-13-45-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-8-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-8-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-8-font-size: 12.796875px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-8-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-8-line-height: 30.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-12-8-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-49-font-family: "Roboto-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-49-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-49-font-size: 49px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-49-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-49-line-height: 53.900001525878906px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-medium-49-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-10-font-family: "Roboto-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-10-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-10-font-size: 10px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-10-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-10-line-height: 10px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-regular-10-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-bold-10-font-family: "Roboto-Bold",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-bold-10-font-weight: 700;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-bold-10-font-size: 10px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-bold-10-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-bold-10-line-height: 19px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-roboto-bold-10-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-noto-sans-display-medium-12-upper-font-family: "NotoSans-DisplayMedium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-noto-sans-display-medium-12-upper-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-noto-sans-display-medium-12-upper-font-size: 12px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-noto-sans-display-medium-12-upper-letter-spacing: 5px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-noto-sans-display-medium-12-upper-line-height: 13.199999809265137px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-noto-sans-display-medium-12-upper-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-12-6-font-family: "Inter-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-12-6-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-12-6-font-size: 12.600000381469727px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-12-6-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-12-6-line-height: 12.600000381469727px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-12-6-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-14-font-family: "Inter-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-14-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-14-font-size: 14px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-14-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-14-line-height: 14px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-14-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-21-font-family: "Inter-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-21-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-21-font-size: 21px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-21-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-21-line-height: 21px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-21-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-26-font-family: "Inter-Regular",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-26-font-weight: 400;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-26-font-size: 26px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-26-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-26-line-height: 50px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-inter-regular-26-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-42-font-family: "Montserrat-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-42-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-42-font-size: 42.00002670288086px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-42-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-42-line-height: 46.20000076293945px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-42-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-16-8-font-family: "Montserrat-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-16-8-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-16-8-font-size: 16.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-16-8-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-16-8-line-height: 18.479999542236328px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-16-8-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-14-upper-font-family: "Montserrat-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-14-upper-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-14-upper-font-size: 14px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-14-upper-letter-spacing: 2px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-14-upper-line-height: 15.399999618530273px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-14-upper-font-style: normal;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-23-8-font-family: "Montserrat-Medium",
+    Helvetica;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-23-8-font-weight: 500;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-23-8-font-size: 23.799999237060547px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-23-8-letter-spacing: 0px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-23-8-line-height: 26.18000030517578px;
+  --p-w3layouts-com-demos-new-template-demo-19-07-2017-big-store-demo-free-91858261-web-1920x1080-default-montserrat-medium-23-8-font-style: normal;
+}
